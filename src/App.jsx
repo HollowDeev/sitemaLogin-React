@@ -5,8 +5,9 @@ import { Home } from './Pages/Home/Home'
 
 import { PainelAdm } from './Pages/Adm/PainelAdm'
 import { Login }from './Pages/Login/Login'
-import { RequireAuth } from './context/requireAuth'
+
 import { PainelColaboradores } from './Pages/Adm/PainelColaboradores'
+import { RequireAuth } from './context/requireAuth'
 
 function App() {
 
